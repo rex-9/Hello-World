@@ -1,6 +1,3 @@
-To reviewers...
-- Linter included (I don't know for sure whether this is right or wrong.)
-- README included
-- This project will display "Hello Microverse" with red color styling.
-- No js included.
-- with .gitignore
+Project Name - Hello Microverse
+Description - Hello World html template with red color.
+Built with - HTML and CSS with linters
